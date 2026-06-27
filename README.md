@@ -1,4 +1,4 @@
-# YAKEKOGE - Add Burn Colour MOD (v1.0.0)
+# YAKEKOGE - Add Burn Color MOD (v1.0.0)
 
 A simple config mod that adds realistic atmospheric reentry burn marks/discoloration to ALL KSP parts. 
 By distributing a minuscule amount of Ablator resource to every part, it triggers the stock game's burn-color shader.
