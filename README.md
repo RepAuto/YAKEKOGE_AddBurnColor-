@@ -12,6 +12,7 @@ Since a tiny amount of Ablator resource is added to every single part, it may sl
 
 ## 🤝 Support Notice
 Please note that the creator has absolutely zero programming or modding knowledge. This MOD is provided "as-is", and I am unable to offer technical support, updates, or bug fixes. Thank you for your understanding.
+＊The config code was assisted by generative AI, then manually rewritten, debugged, and tested by the creator.＊
 
 ## 📄 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
